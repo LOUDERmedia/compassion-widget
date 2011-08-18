@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: kurtloudermedia, benstewart
 Tags: Compassion, Compassion International, Child Sponsorship, Banner, Widget, Sidebar, Sponsor a Child
-Requires at least: 2.0.2
+Requires at least: 3.0
 Tested up to: 3.2.1
 Stable tag: 1.0
 
