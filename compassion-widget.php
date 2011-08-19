@@ -3,7 +3,7 @@
 Plugin Name: Compassion Widget
 Plugin URI: http://compassion.org
 Description: A widget to display Compassion sponsorship banners
-Version: 0.1
+Version: 1.0
 Author: LOUDERmedia
 Author URI: http://loudermedia.com
 License: GPL2
